@@ -25,6 +25,7 @@
 ### How to configure SQL Server 2019 Active / Active Cluster on Windows Server 2019 Cluster
 
 <img src="./Cluster.jpg" alt="SQL Cluster">
+<img src="./active Passive Cluster.jpg" alt="SQL Cluster1">
 
 # Intruduction
 In this video series we are going to see how to configure SQL Server 2019 Active / Active Cluster. Following are the pre-requisit for that
